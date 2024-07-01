@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-        {
-            "source": "/most-tracked",
-            "destination": "https://most-tracked.vercel.app"
-        }
-    ]
-}
